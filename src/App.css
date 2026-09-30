@@ -1,0 +1,15 @@
+/* Full page backdrop styling */
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background-color: #7b8e7b; /* Matching muted green background from video */
+}
+
+.app-viewport {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
